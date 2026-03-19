@@ -52,7 +52,8 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/b
+    adge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -64,11 +65,6 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
   <img src="https://github-readme-stats.vercel.app/api?username=RUWANTHA-OFC&show_icons=true&theme=vision-friendly-dark" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUWANTHA-OFC&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</div>
-
-### 🐍 My Contributions Snake
-<div align="center">
-  <img src="https://github.com/RUWANTHA-OFC/RUWANTHA-OFC/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
