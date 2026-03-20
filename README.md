@@ -78,7 +78,6 @@ Later, I explored **C++** and **Go**. Overall, what I've learned has helped me b
   </a>
 </p>
 
-
 <div align="center">
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
